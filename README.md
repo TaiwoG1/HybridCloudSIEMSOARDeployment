@@ -24,10 +24,11 @@ This project involved architecting a comprehensive security operations environme
 - <b2> Security Tools: Microsoft Defender for Cloud, Entra ID (Identity Management) </b2>
 </b2>
 
-<h2>Skills Demonstrated: </h2>
-- <b2> SIEM Configuration & Log Management </b2>
+<h2>Skills Demonstrated:</h2>
+
+- <b2> SIEM Configuration & Log Management </b2></b2>
 - <b2> Hybrid Cloud Security (On-boarding on-prem to cloud) </b2>
-- <b2> Incident Response Lifecycle (Identification to Resolution) </b2>
 - <b2> Automation & Orchestration (Logic Apps/SOAR) </b2>
 - <b2> Analytical Thinking (Custom KQL Query development) </b2>
+- <b2> Incident Response Lifecycle (Identification to Resolution) </b2>
 </b2>
