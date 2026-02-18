@@ -32,3 +32,6 @@ This project involved architecting a comprehensive security operations environme
 - <b2> Analytical Thinking (Custom KQL Query development) </b2>
 - <b2> Incident Response Lifecycle (Identification to Resolution) </b2>
 </b2>
+
+
+For a detailed breakdown of the technical implementation, specific configurations, and in-depth analysis, please refer to the [Full Project Report](https://github.com/TaiwoG1/HybridCloudSIEMSOARDeployment/blob/main/Hybrid%20Cloud%20SIEM_SOAR%20Deployment%2C%20Log%20Ingestion%20%26%20Threat%20Detection%20Full%20Report.pdf) <br />
